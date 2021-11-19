@@ -1,5 +1,5 @@
 - 🙃  Hi there, I’m Kelsey
-- 💻  Currently studying at Prime Digital Academy learning JavaScript
+- 💻  Currently studying at Prime Digital Academy learning Software Development
 - 📫  I can be reached at kbrown55347@gmail.com
 
 <!---
