@@ -1,8 +1,8 @@
-- 🙃  Hi there, I’m Kelsey
-- 💻  Currently studying at Prime Digital Academy learning software development
-- 📫  I can be reached at kbrown55347@gmail.com
-
-<!---
-kbrown55347/kbrown55347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🙃  Hi there, I’m Kelsey.
+#### 📚  Currently studying at [Prime Digital Academy](https://www.primeacademy.io/) in their immersive Full Stack Engineering program.
+#### 👩‍💻  My Programming Skills:
+- Languages: JavaScript, HTML/CSS
+- Frameworks: Node.js, Express.js
+- Tools: Git, jQuery, Command Line
+- Databases: SQL (PostgreSQL)
+#### 📫  Comments or questions? I can be reached at kbrown55347@gmail.com.
